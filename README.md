@@ -6,7 +6,6 @@ Student of information systems and front-end development
 
 *   🌍  I'm based in Castanhal
 *   ✉️  You can contact me at [f4biosantana@gmail.com](mailto:f4biosantana@gmail.com)
-*   🧠  I'm learning Mysql Database
 *   🤝  I'm open to collaborating on learning projects
 <br/>
 Skills
