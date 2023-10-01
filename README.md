@@ -1,4 +1,4 @@
-Hi ! 🤞My name is Luiz Fábio Santana
+Hi ! My name is Luiz Fábio Santana
 ==========================================================================================================================================
 
 Student of information systems and front-end development
