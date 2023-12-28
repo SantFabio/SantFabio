@@ -5,7 +5,7 @@ Student of information systems and front-end development
 --------------------------------------------------------
 
 *   🌍  I'm based in Castanhal
-*   ✉️  You can contact me at [f4biosantana@gmail.com](mailto:f4biosantana@gmail.com) or [+5591980426870](tel:+5591980426870)
+*   ✉️  You can contact me at [f4biosantana@gmail.com](mailto:f4biosantana@gmail.com), [+5591980426870](tel:+5591980426870) or (https://www.linkedin.com/in/lfabiopsantana/)[https://www.linkedin.com/in/lfabiopsantana/]
 *   🤝  I'm open to collaborating on learning projects
 <br/>
 Skills
