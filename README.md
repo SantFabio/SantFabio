@@ -3,7 +3,7 @@ Hi ! My name is Luiz Fábio Santana
 
 Student of information systems and front-end development
 --------------------------------------------------------
-
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://github.com/SantFabio/P-gina-de-conte-do/blob/master/dev%201.svg)" width="36" height="36" alt="me"/>
 *   🌍  I'm based in Gaspar - SC.
 *   ✉️  You can contact me at [f4biosantana@gmail.com](mailto:f4biosantana@gmail.com), [+5591980426870](tel:+5591980426870) or https://www.linkedin.com/in/lfabiopsantana/
 *   🤝  I'm open to collaborating on learning projects
