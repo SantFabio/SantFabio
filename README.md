@@ -13,7 +13,7 @@ Iniciei minha jornada acadêmica em Sistemas de Informação na Universidade Fed
 
 <br/>
 *   🌍  I'm based in Gaspar - SC. <br/>
-*   ✉️  You can contact me at [f4biosantana@gmail.com](mailto:f4biosantana@gmail.com), [+5591980426870](tel:+5591980426870) or https://www.linkedin.com/in/lfabiopsantana/ <br/>
+*   ✉️  You can contact me at f4biosantana@gmail.com, [+5591980426870](tel:+5591980426870) or https://www.linkedin.com/in/lfabiopsantana/ <br/>
 *   🤝  I'm open to collaborating on learning projects<br/>
 <br/>
 <p align="left">
