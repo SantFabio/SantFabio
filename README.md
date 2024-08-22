@@ -2,13 +2,6 @@
 
 # Hi ! I'm Luiz Fábio Santana
 
-<div style="width: 100%; height: 300px; background: #004186; display: flex; justify-content: space-between; margin: auto; border-radius: 10px; padding: 20px 20px 0px 20px;">
-    <div style="width: 40%;">
-        <h1 style="color: #FFFFFF;">Luiz Fábio Santana</h1>
-        <h2 style="color: #FFFFFF;">Desenvolvedor Web Full-Stack em Formação | Domínio em Frontend</h2>
-    </div>
-    <img src="https://github.com/SantFabio/desafio-codificador/blob/master/assets/img/dev%202.png" alt="dev" style="height: 325px; position: relative; bottom: -2px;">
-</div>
 <br/>
 <p>Sou um desenvolvedor web com sólido domínio em HTML, CSS, JavaScript, TypeScript, Tailwind CSS e React. Tenho experiência significativa na construção de interfaces interativas e responsivas, e utilizo essas habilidades para criar aplicações web modernas e eficientes. No backend, trabalho com Node.js, MongoDB e Firebase, o que me permite desenvolver soluções completas e escaláveis. Estou constantemente buscando aprimorar minhas habilidades e expandir meu conhecimento, com o objetivo de me tornar um desenvolvedor full-stack. Atualmente, estou dedicado ao estudo de novas tecnologias e melhores práticas para atingir essa meta e oferecer soluções completas e inovadoras.</p>
 <br/>
