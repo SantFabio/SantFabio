@@ -12,9 +12,10 @@
 Iniciei minha jornada acadêmica em Sistemas de Informação na Universidade Federal do Pará (UFPA) em 2019, após ser aprovado no ENEM. Durante o período, adquiri uma base sólida em princípios de desenvolvimento de software, estrutura de dados e sistemas de informação. No entanto, decidi transferir meu curso para a modalidade EAD em Santa Catarina, onde estou atualmente cursando na Faculdade Estácio.</p>
 
 <br/>
-*   🌍  I'm based in Gaspar - SC. <br/>
-*   ✉️  You can contact me at f4biosantana@gmail.com, tel:+5591980426870 or https://www.linkedin.com/in/lfabiopsantana/ <br/>
-*   🤝  I'm open to collaborating on learning projects<br/>
+*   🌍  Morando em Blumenau - SC. <br/>
+*   ✉️  Você pode me contatar pelo f4biosantana@gmail.com, tel:+5591980426870 ou https://www.linkedin.com/in/lfabiopsantana/ <br/>
+*   🤝  Aberto para colaborações em projetos e aprender com eles.
+<br/>
 <br/>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
