@@ -23,7 +23,8 @@ Iniciei minha jornada acadêmica em Sistemas de Informação na Universidade Fed
 <a href="https://react.dev/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="react"/></a>
 <a href="https://www.typescriptlang.org/"> <img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/></a>
 <a href="https://tailwindcss.com/"> <img width="36" height="36" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss.png"/></a>
-<a href="https://nodejs.org/en"> <img width="36" height="36" src="https://img.icons8.com/color/36/nodejs.png" alt="tailwindcss.png"/></a>
-<a href="https://www.mongodb.com/"> <img width="36" height="36" src="https://img.icons8.com/color/36/mongodb.png" alt="tailwindcss.png"/></a>
-<a href="https://firebase.google.com/"> <img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png" alt="tailwindcss.png"/></a>
+<a href="https://nodejs.org/en"> <img width="36" height="36" src="https://img.icons8.com/color/36/nodejs.png" alt="Node.png"/></a>
+<a href="https://www.mongodb.com/"> <img width="36" height="36" src="https://img.icons8.com/color/36/mongodb.png" alt="mongoDB.png"/></a>
+<a href="https://firebase.google.com/"> <img width="36" height="36" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-color-tal-revivo.png" alt="firebase.png"/></a>
+<a href="https://www.java.com/pt-BR/"> <img width="36" height="36" src="(https://img.icons8.com/color/36/java-coffee-cup-logo--v1.png" alt="java.png"/></a>
 </p>
