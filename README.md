@@ -2,7 +2,7 @@
 
 # Hi ! I'm Luiz Fábio Santana
 
-<img src="https://raw.githubusercontent.com/SantFabio/imgs/main/Luiz%20F%C3%A1bio%20-%20Developer.png" alt="Luiz Fábio - Developer" width="300"/>
+<img src="https://raw.githubusercontent.com/SantFabio/SantFabio/main/Luiz%20F%C3%A1bio%20-%20Developer.png" alt="Luiz Fábio - Developer" width="300"/>
 
 <br/>
 
