@@ -2,23 +2,10 @@
 
 # Hi ! I'm Luiz Fábio Santana
 
-<img src="https://private-user-images.githubusercontent.com/118360185/518388435-9b855f66-4b73-4ea5-b124-03a9ad14e6e8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQwMzQ1MzAsIm5iZiI6MTc2NDAzNDIzMCwicGF0aCI6Ii8xMTgzNjAxODUvNTE4Mzg4NDM1LTliODU1ZjY2LTRiNzMtNGVhNS1iMTI0LTAzYTlhZDE0ZTZlOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyNVQwMTMwMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNzZjOWZjOWYzMjllMWMxYzQ4MTlhNGJhOTJjOTkyYzNkNGNiMDQxODg4OGUwZjQ4OGI1MmQ4YTliOWZhZjc3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Z2oY3JCXku1YGqtPDZueVlp4RP1dEZmub6FXVRbsBGc" alt="Luiz Fábio - Developer" width=""/>
-
+<img src="luiz-fabio-developer.png" alt="Luiz Fábio - Developer" />
 <br/>
-
-<p>
-Sou um desenvolvedor web com sólido domínio em HTML, CSS, JavaScript, TypeScript, Tailwind CSS e React. Tenho experiência significativa na construção de interfaces interativas e responsivas, e utilizo essas habilidades para criar aplicações web modernas e eficientes. No backend, trabalho com Node.js, MongoDB e Firebase, o que me permite desenvolver soluções completas e escaláveis. Estou constantemente buscando aprimorar minhas habilidades e expandir meu conhecimento, com o objetivo de me tornar um desenvolvedor full-stack. Atualmente, estou dedicado ao estudo de novas tecnologias e melhores práticas para atingir essa meta e oferecer soluções completas e inovadoras.
-</p>
-
 <br/>
-
-## Estudante de Sistemas de Informação - Estácio
-
-<p>
-Iniciei minha jornada acadêmica em Sistemas de Informação na Universidade Federal do Pará (UFPA) em 2019, após ser aprovado no ENEM. Durante o período, adquiri uma base sólida em princípios de desenvolvimento de software, estrutura de dados e sistemas de informação. No entanto, decidi transferir meu curso para a modalidade EAD em Santa Catarina, onde estou atualmente cursando na Faculdade Estácio.
-</p>
-
-<br/>
+## Estudante de Sistemas de Informação - Universidade Cruzeiro do Sul
 
 * 🌍  Morando em Blumenau - SC.  
 * ✉️  Você pode me contatar pelo **f4biosantana@gmail.com**, **tel:+5591980426870** ou **https://www.linkedin.com/in/lfabiopsantana/**  
