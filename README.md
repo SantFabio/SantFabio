@@ -7,9 +7,8 @@
 <br/>
 Estudante de Sistemas de Informação - Universidade Cruzeiro do Sul
 
-* 🌍  Morando em Blumenau - SC.  
 * ✉️  Você pode me contatar pelo [f4biosantana@gmail.com](mailto:f4biosantana@gmail.com), [WhatsApp](https://wa.me/5591980426870) ou [LinkedIn](https://www.linkedin.com/in/lfabiopsantana/)  
-* 🤝  Aberto para colaborações em projetos e aprender com eles.
+* 🤝  Aberto para colaborações em projetos.
 
 <br/><br/>
 
