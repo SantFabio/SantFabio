@@ -1,11 +1,11 @@
 <!-- @format -->
 
-# Hi ! I'm Luiz Fábio Santana
+# Hi ! I'm Luiz Fábio Santana.
 
 <img src="luiz-fabio-developer.png" alt="Luiz Fábio - Developer" />
 <br/>
 <br/>
-## Estudante de Sistemas de Informação - Universidade Cruzeiro do Sul
+Estudante de Sistemas de Informação - Universidade Cruzeiro do Sul
 
 * 🌍  Morando em Blumenau - SC.  
 * ✉️  Você pode me contatar pelo **f4biosantana@gmail.com**, **tel:+5591980426870** ou **https://www.linkedin.com/in/lfabiopsantana/**  
